@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET_THP\\ThpLab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|d:\\asp.net_thp\\thplab04\\thplab04\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|solutionrelative:thplab04\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|d:\\asp.net_thp\\thplab04\\thplab04\\views\\customer\\customerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|solutionrelative:thplab04\\views\\customer\\customerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|d:\\asp.net_thp\\thplab04\\thplab04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|solutionrelative:thplab04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|d:\\asp.net_thp\\thplab04\\thplab04\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C99BF8-3A4E-459A-812D-FCC8EDB4CE02}|ThpLab04\\ThpLab04.csproj|solutionrelative:thplab04\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerList.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Views\\Customer\\CustomerList.cshtml",
+              "RelativeDocumentMoniker": "ThpLab04\\Views\\Customer\\CustomerList.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Views\\Customer\\CustomerList.cshtml",
+              "RelativeToolTip": "ThpLab04\\Views\\Customer\\CustomerList.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:41:04.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ThpLab04\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ThpLab04\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:27:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThpLab04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThpLab04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:22:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ThpLab04\\Models\\Customer.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\ThpLab04\\ThpLab04\\Models\\Customer.cs",
+              "RelativeToolTip": "ThpLab04\\Models\\Customer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:22:17.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

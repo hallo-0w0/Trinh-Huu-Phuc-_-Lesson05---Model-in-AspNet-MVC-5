@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET_THP\\Thp.Lession04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\views\\thpcustomerscaffding\\thpcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\views\\thpcustomerscaffding\\thpcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\views\\thpcustomerscaffding\\thpedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\views\\thpcustomerscaffding\\thpedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\controllers\\thpcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\controllers\\thpcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\views\\thpcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\views\\thpcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\controllers\\thpcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\controllers\\thpcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\models\\thpcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\models\\thpcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|d:\\asp.net_thp\\thp.lession04\\thp.lession04\\views\\thpcustomer\\thplistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926B05B7-2580-4AD3-B3C2-528D0941754C}|Thp.Lession04\\Thp.Lession04.csproj|solutionrelative:thp.lession04\\views\\thpcustomer\\thplistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThpEdit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpEdit.cshtml",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpEdit.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpEdit.cshtml",
+              "RelativeToolTip": "Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:17:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThpCreate.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpCreate.cshtml",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpCreate.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpCreate.cshtml",
+              "RelativeToolTip": "Thp.Lession04\\Views\\ThpCustomerScaffding\\ThpCreate.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:03:06.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomerScaffding\\Index.cshtml",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Views\\ThpCustomerScaffding\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomerScaffding\\Index.cshtml",
+              "RelativeToolTip": "Thp.Lession04\\Views\\ThpCustomerScaffding\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T09:52:50.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThpCustomerScaffdingController.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Controllers\\ThpCustomerScaffdingController.cs",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Controllers\\ThpCustomerScaffdingController.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Controllers\\ThpCustomerScaffdingController.cs",
+              "RelativeToolTip": "Thp.Lession04\\Controllers\\ThpCustomerScaffdingController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:45:22.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThpCustomerController.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Controllers\\ThpCustomerController.cs",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Controllers\\ThpCustomerController.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Controllers\\ThpCustomerController.cs",
+              "RelativeToolTip": "Thp.Lession04\\Controllers\\ThpCustomerController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwEUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:04:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThpCustomer.cs",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Models\\ThpCustomer.cs",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Models\\ThpCustomer.cs",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Models\\ThpCustomer.cs",
+              "RelativeToolTip": "Thp.Lession04\\Models\\ThpCustomer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:57:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Thp.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T09:15:24.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThpListCustomer.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomer\\ThpListCustomer.cshtml",
+              "RelativeDocumentMoniker": "Thp.Lession04\\Views\\ThpCustomer\\ThpListCustomer.cshtml",
+              "ToolTip": "D:\\ASP.NET_THP\\Thp.Lession04\\Thp.Lession04\\Views\\ThpCustomer\\ThpListCustomer.cshtml",
+              "RelativeToolTip": "Thp.Lession04\\Views\\ThpCustomer\\ThpListCustomer.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T09:27:07.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
